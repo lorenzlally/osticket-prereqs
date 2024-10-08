@@ -38,7 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-![Screenshot 2024-10-08 184538](https://github.com/user-attachments/assets/1726addd-e1ca-4a51-bb36-943cdb4485e0)
+![image](https://github.com/user-attachments/assets/f8930251-dd50-4679-b5aa-0f2a0de5dc9a)
+
 
 
 </p>
